@@ -1,0 +1,57 @@
+.header-gradient {
+    background: #ecdfce
+}
+
+.text-small {
+    font-size: 1em;
+}
+
+.pen-img{
+    height: 60vh;
+}
+
+.options-icon {
+    color: #cabe39;
+    font-size: 4em;
+}
+
+.newsletter-form {
+    max-width: 20vw;
+}
+
+.options-row {
+    background-color: #2c4dd2;
+    padding: 10vh 15vw;
+}
+
+.hero-text{
+    padding: 0 15vw;
+}
+
+.hero-button {
+    margin-right: 15vw;
+}
+
+.map-image {
+    object-fit: cover;
+    max-height: 65vh;
+    width: 100%;
+}
+
+.footer-color {
+    background-color: #3d3d3d;
+}
+
+@media screen and (max-width: 768px) {
+    .hero-text {
+        padding: 0 7vw;
+    }
+
+    .hero-button {
+        margin-right: 35vw;
+    }
+
+    .newsletter-form {
+        max-width: 45vw;
+    }
+}
